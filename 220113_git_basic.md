@@ -3,7 +3,7 @@
 - CLI/GUI
   - CLI: commad line interface
   - GUI: graphical user interface
-- Unix/Linux 명령어 git에서 사용 가능
+- Unix/Linux 명령어 git에서 사용0
 
 
 
